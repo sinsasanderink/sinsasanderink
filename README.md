@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ursinasanderink"><img src="https://img.shields.io/badge/LinkedIn-@ursinasanderink-blue?logo=linkedin" alt="LinkedIn"/></a>
   &nbsp;|&nbsp;
-  <a href="https://ursinasanderink.com/"><img src="https://img.shields.io/badge/Website-ursinasanderink.com-orange?logo=github" alt="website"/></a>
+  <a href="https://ursinasanderink.com/"><img src="https://img.shields.io/badge/Website-ursinasanderink.com-orange?logo=github" alt="Website"/></a>
   &nbsp;|&nbsp;
   <a href="https://medium.com/@sanderink.ursina"><img src="https://img.shields.io/badge/Medium-@sanderink.ursina-black?logo=medium" alt="Medium"/></a>
   &nbsp;|&nbsp;
@@ -22,7 +22,7 @@ I’m a **Machine Learning Engineer & AI Consultant** with:
 - 🎓 MSc in Financial Engineering (in progress)  
 - 🎓 MBA  
 
-I build scalable ML/AI systems—from deep-learning and reinforcement-learning to end-to-end data pipelines and quantitative strategies.
+I build scalable ML/AI systems—from deep learning and reinforcement learning to end-to-end data pipelines and quantitative strategies.
 
 ---
 
@@ -39,20 +39,18 @@ I build scalable ML/AI systems—from deep-learning and reinforcement-learning t
 ---
 
 ## 💻 Featured Projects
-| Project                                                    | What It Does                                                | Link                                                                                   |
-|------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| **nmt-english-hindi-seq2seq-tf2**                          | Seq2Seq NMT with GRUs (English ↔ Hindi) in TensorFlow 2      | 🔗 [Repo](https://github.com/sinsasanderink/nmt-english-hindi-seq2seq-tf2)             |
-| **Algorithmic-Trading-with-Unsupervised-Learning**         | Unsupervised ML uncovers market patterns & trading signals  | 🔗 [Repo](https://github.com/sinsasanderink/Algorithmic-Trading-with-Unsupervised-Learning) |
-| **Melanoma_detection_CNN_Model**                           | CNN-based early melanoma detection from images              | 🔗 [Repo](https://github.com/sinsasanderink/Melanoma_detection_CNN_Model)              |
-| **Heart-Disease_Classification_Inference**                  | End-to-end inference pipeline for heart disease prediction  | 🔗 [Repo](https://github.com/sinsasanderink/Heart-Disease_Classification_Inference)     |
+| Project                                            | What It Does                                              | Link                                                                                   |
+|----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------|
+| **nmt-english-hindi-seq2seq-tf2**                  | Seq2Seq NMT with GRUs (English ↔ Hindi) in TensorFlow 2    | 🔗 [Repo](https://github.com/sinsasanderink/nmt-english-hindi-seq2seq-tf2)             |
+| **Algorithmic-Trading-with-Unsupervised-Learning** | Unsupervised ML uncovers market patterns & trading signals| 🔗 [Repo](https://github.com/sinsasanderink/Algorithmic-Trading-with-Unsupervised-Learning) |
+| **Melanoma_detection_CNN_Model**                   | CNN-based early melanoma detection from images            | 🔗 [Repo](https://github.com/sinsasanderink/Melanoma_detection_CNN_Model)              |
+| **Heart-Disease_Classification_Inference**          | End-to-end inference pipeline for heart disease prediction| 🔗 [Repo](https://github.com/sinsasanderink/Heart-Disease_Classification_Inference)     |
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinsasanderink&show_icons=true&theme=radical&count_private=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinsasanderink&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sinsasanderink&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -60,12 +58,12 @@ I build scalable ML/AI systems—from deep-learning and reinforcement-learning t
 ## 🌱 Currently Learning
 - Advanced **world-model** architectures (JEPA, Dreamer, MuZero)  
 - **Causal inference** in ML systems  
-- Productionizing ML with **KFServing** and **Kubeflow**
+- Productionizing ML with **KFServing** & **Kubeflow**
 
 ---
 
 ## 📫 Let’s Connect
-- 📧 ursina@domain.com  
+- 📧 ursinasanderink@gmail.com  
 - 💬 <a href="https://linkedin.com/in/ursinasanderink">LinkedIn</a>  
 - ✍️ <a href="https://medium.com/@sanderink.ursina">Medium</a>  
 - 🔗 <a href="https://ursinasanderink.com/">Website</a>  
