@@ -48,20 +48,6 @@ I design and ship scalable AI/ML systems—from deep learning and reinforcement 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinsasanderink&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
-
-## 🏆 Trophies
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sinsasanderink&theme=radical&column=3&title=Repositories,Commits,Experience)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
----
-
 ## 🌱 Currently Learning
 - Advanced **world-model** architectures (JEPA, Dreamer, MuZero)  
 - **Causal inference** in ML systems  
