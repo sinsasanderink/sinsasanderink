@@ -5,21 +5,13 @@
 
 <h1 align="center">👋 Hi, I’m Ursina Sanderink</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/ursinasanderink">
-    <img src="https://img.shields.io/badge/LinkedIn-@ursinasanderink-blue?logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <a href="https://linkedin.com/in/ursinasanderink"><img src="https://img.shields.io/badge/LinkedIn-@ursinasanderink-blue?logo=linkedin" alt="LinkedIn"/></a>
   &nbsp;|&nbsp;
-  <a href="https://ursinasanderink.com/">
-    <img src="https://img.shields.io/badge/Website-ursinasanderink.com-orange?logo=github" alt="Website"/>
-  </a>
+  <a href="https://ursinasanderink.com/"><img src="https://img.shields.io/badge/Website-ursinasanderink.com-orange?logo=github" alt="Website"/></a>
   &nbsp;|&nbsp;
-  <a href="https://medium.com/@sanderink.ursina">
-    <img src="https://img.shields.io/badge/Medium-@sanderink.ursina-black?logo=medium" alt="Medium"/>
-  </a>
+  <a href="https://medium.com/@sanderink.ursina"><img src="https://img.shields.io/badge/Medium-@sanderink.ursina-black?logo=medium" alt="Medium"/></a>
   &nbsp;|&nbsp;
-  <a href="https://www.notion.so/ursinasanderink">
-    <img src="https://img.shields.io/badge/Notion-@ursinasanderink-lightgrey?logo=notion" alt="Notion"/>
-  </a>
+  <a href="https://www.notion.so/ursinasanderink"><img src="https://img.shields.io/badge/Notion-@ursinasanderink-lightgrey?logo=notion" alt="Notion"/></a>
 </p>
 
 ---
@@ -56,16 +48,15 @@ I design and ship scalable AI/ML systems—from deep learning and reinforcement 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sinsasanderink&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📊 Contributions Over Time
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sinsasanderink&theme=react-dark&area=true" alt="Contribution Graph"/>
+  <img src="https://img.shields.io/badge/Repos-70+-brightgreen?logo=github" alt="Repos"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Commits-126+-brightgreen?logo=git" alt="Commits"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Merged_PRs-2-brightgreen?logo=github" alt="Merged PRs"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stars-2-brightgreen?logo=stars" alt="Stars"/>
 </p>
 
 ---
