@@ -28,13 +28,27 @@ I design and ship scalable AI/ML systems—from deep learning and reinforcement 
 
 ## 🔨 Tech Stack
 <p align="center">
+  <!-- Core Python data & ML -->
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-1.24-lightgrey?logo=numpy" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-2.0-lightblue?logo=pandas" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1.2-orange?logo=scikit-learn" alt="scikit-learn"/>
+  
+  <!-- Deep learning & reinforcement learning -->
   <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-1.x-red?logo=pytorch" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1.0-orange?logo=scikit-learn" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/JAX-0.4-lightgrey?logo=googlejax" alt="JAX"/>
+
+  <!-- Gradient boosting & experiment tracking -->
+  <img src="https://img.shields.io/badge/XGBoost-1.x-green?logo=xgboost" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/MLflow-2.x-black?logo=mlflow" alt="MLflow"/>
+
+  <!-- Infrastructure & orchestration -->
   <img src="https://img.shields.io/badge/Docker-24.0-blue?logo=docker" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-1.27-blue?logo=kubernetes" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-Infrastructure-yellow?logo=amazonaws" alt="AWS"/>
 </p>
+
 
 ---
 
