@@ -48,15 +48,9 @@ I design and ship scalable AI/ML systems—from deep learning and reinforcement 
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-70+-brightgreen?logo=github" alt="Repos"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Commits-126+-brightgreen?logo=git" alt="Commits"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Merged_PRs-2-brightgreen?logo=github" alt="Merged PRs"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stars-2-brightgreen?logo=stars" alt="Stars"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sinsasanderink&theme=radical&column=3&margin-w=15&margin-h=15&no-bg=true&rank=Repositories,Commits,Experience" alt="GitHub Trophies" />
 </p>
 
 ---
